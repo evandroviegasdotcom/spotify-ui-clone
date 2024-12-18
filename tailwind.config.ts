@@ -12,7 +12,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         dimmed: "var(--dimmed)",
-        hover: "var(--hover)"
+        hover: "var(--hover)",
       },
     },
   },
